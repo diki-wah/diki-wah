@@ -2,6 +2,8 @@
 
 # 🐉 Dikzzy.eth
 
+<img src="dragon-pixel.gif" alt="Animated pixel dragon flying through a night sky" width="100%" />
+
 **Web3 hunter · automation builder · AI agent enjoyer**
 
 Indonesia 🇮🇩 · Jakarta  
