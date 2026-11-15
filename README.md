@@ -44,6 +44,7 @@ Chasing airdrops, studying on-chain flows, learning bug bounty, and building scr
 ## 📌 Public repos
 
 - [**diki-wah**](https://github.com/diki-wah/diki-wah) — this profile README
+- [**portfolio**](https://diki-wah.github.io/portfolio/) — personal site + Dragon Run canvas game
 - [**sandbox**](https://github.com/diki-wah/sandbox) — playground for scripts, experiments, and quick automation ideas
 
 ## 📊 GitHub stats
