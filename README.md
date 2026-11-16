@@ -1,20 +1,20 @@
 <div align="center">
 
-# 🐉 Dikzzy.eth
+<img src="assets/polar-header.svg" alt="Polar bear under an aurora — animated" width="100%" />
 
-<img src="dragon-pixel.gif" alt="Animated pixel dragon flying through a night sky" width="100%" />
+<img src="assets/stats.svg" alt="Profile statistics" width="100%" />
 
 **Web3 hunter · automation builder · AI agent enjoyer**
 
-Indonesia 🇮🇩 · Jakarta  
+Indonesia 🇮🇩 · Jakarta
 Chasing airdrops, studying on-chain flows, learning bug bounty, and building scripts that do the boring work for me.
 
-[![X](https://img.shields.io/badge/@es__telo18008-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/es_telo18008)
+[![X](https://img.shields.io/badge/@diikzzyy__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/diikzzyy__)
 [![GitHub](https://img.shields.io/badge/diki--wah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diki-wah)
 
 </div>
 
----
+<img src="assets/rule.svg" alt="" width="100%" />
 
 ## ⚡ What I do
 
@@ -49,6 +49,8 @@ Chasing airdrops, studying on-chain flows, learning bug bounty, and building scr
 - [**portfolio**](https://diki-wah.github.io/portfolio/) — personal site + Dragon Run canvas game
 - [**sandbox**](https://github.com/diki-wah/sandbox) — playground for scripts, experiments, and quick automation ideas
 
+<img src="assets/rule.svg" alt="" width="100%" />
+
 ## 📊 GitHub stats
 
 <div align="center">
@@ -58,4 +60,8 @@ Chasing airdrops, studying on-chain flows, learning bug bounty, and building scr
 
 </div>
 
-> Still early — more builds, notes, and experiments coming as I ship in public. 🐉
+## 🐉 Pixel dragon
+
+<img src="dragon-pixel.gif" alt="Animated pixel dragon flying through a night sky" width="100%" />
+
+> Still early — more builds, notes, and experiments coming as I ship in public.
