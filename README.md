@@ -53,12 +53,7 @@ Chasing airdrops, studying on-chain flows, learning bug bounty, and building scr
 
 ## 📊 GitHub stats
 
-<div align="center">
-
-[![Dikzzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=diki-wah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/diki-wah)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diki-wah&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/diki-wah)
-
-</div>
+Angka di kartu atas (`assets/stats.svg`) dibuat dari API GitHub langsung, tanpa layanan pihak ketiga.
 
 ## 🐉 Pixel dragon
 
