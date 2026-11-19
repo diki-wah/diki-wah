@@ -10,7 +10,7 @@ Indonesia 🇮🇩 · Jakarta
 Chasing airdrops, studying on-chain flows, learning bug bounty, and building scripts that do the boring work for me.
 
 [![X](https://img.shields.io/badge/@diikzzyy__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/diikzzyy__)
-[![GitHub](https://img.shields.io/badge/diki--wah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diki-wah)
+[![GitHub](https://img.shields.io/badge/dikzzy--eth-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dikzzy-eth)
 
 </div>
 
@@ -45,9 +45,9 @@ Chasing airdrops, studying on-chain flows, learning bug bounty, and building scr
 
 ## 📌 Public repos
 
-- [**diki-wah**](https://github.com/diki-wah/diki-wah) — this profile README
-- [**portfolio**](https://diki-wah.github.io/portfolio/) — personal site + Dragon Run canvas game
-- [**sandbox**](https://github.com/diki-wah/sandbox) — playground for scripts, experiments, and quick automation ideas
+- [**dikzzy-eth**](https://github.com/dikzzy-eth/dikzzy-eth) — this profile README
+- [**portfolio**](https://dikzzy-eth.github.io/portfolio/) — personal site + Dragon Run canvas game
+- [**sandbox**](https://github.com/dikzzy-eth/sandbox) — playground for scripts, experiments, and quick automation ideas
 
 <img src="assets/rule.svg" alt="" width="100%" />
 
